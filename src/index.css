@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-[#070A18] text-white;
+}
+
+/* nice thin scrollbar (optional) */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(168, 85, 247, 0.35);
+  border-radius: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.03);
+}
