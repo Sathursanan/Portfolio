@@ -2,9 +2,9 @@ import Card from "./ui/Card";
 import { FaUserTie } from "react-icons/fa";
 
 const items = [
-  { range: "(Jan 2022 - Present)", title: "SOFTWARE ENGINEER I", org: "Teton Private Ltd." },
-  { range: "(Jun 2021 - Jan 2022)", title: "FULLSTACK DEVELOPER", org: "Fiverr (freelance)" },
-  { range: "(Jan 2018 - Present)", title: "SELF EMPLOYED", org: "Code and build something everyday." },
+  { range: "", title: "Backend Engineering", org: "" },
+  { range: "", title: "API Integration", org: "" },
+  { range: "", title: "AI Model Creation", org: "" },
 ];
 
 export default function Experience() {

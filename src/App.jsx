@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Section from "./components/Section";
 import About from "./components/About";
-import Experience from "./components/Experience";
+import Expert from "./components/Expert";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Education from "./components/Education";
@@ -29,8 +29,8 @@ export default function App() {
           <About />
         </Section>
 
-        <Section id="experience" title="Experiences">
-          <Experience />
+        <Section id="experience" title="Expert">
+          <Expert />
         </Section>
 
         <Section id="skills" title="Skills">
