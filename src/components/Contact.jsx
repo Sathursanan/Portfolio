@@ -64,7 +64,7 @@ export default function Contact() {
           </div>
           <div>
             <div className="text-white/60 text-sm">Phone</div>
-            <div className="font-semibold">+94728067412</div>
+            <div className="font-semibold">+94774114379</div>
           </div>
         </Card>
 
